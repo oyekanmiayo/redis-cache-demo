@@ -1,5 +1,5 @@
 # redis-cache-demo
-A simple project implementing redis cache in a Spring project
+A simple project implementing redis cache in a Spring
 
 To run:
 - Open intelli J
